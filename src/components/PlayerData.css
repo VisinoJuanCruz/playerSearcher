@@ -1,0 +1,69 @@
+.container-account-data{
+    
+    margin-bottom:5%;
+    
+}
+
+.account-data{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+.summoner-data{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: goldenrod;
+    width: 90%;
+    height:90%;
+    color:blue;
+    border-radius:10px;
+    align-self:center;
+    justify-self: center;
+   
+
+    
+    
+    
+}
+
+.container-ranked-data{
+    border:2px solid red;
+}
+
+.ranked-card{
+    align-items: center;
+    background-color: rgb(40, 44, 48);
+    width: 100%;
+    border: 1px solid white;
+    color:white;
+    margin: 0px;
+    
+    
+    
+}
+
+.lineUp {
+    animation: 2s anim-lineUp ease-out;
+  }
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }

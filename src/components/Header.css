@@ -1,0 +1,36 @@
+header{background-color:goldenrod;}
+
+.header-name{
+    margin-bottom:0;
+    transition: color 2s;
+    transition: font-size 1.5s;
+
+}
+
+.header-name:hover{
+    color:white;
+    font-size:1.5em;
+}
+
+
+.item-nav-menu{
+    color:black;
+    transition: color 2s;
+    transition: font-size 1.5s;
+
+}
+
+.item-nav-menu:hover{
+    color: white;
+    font-size:1.5em;
+  
+}
+
+.nav-menu{
+    font-size:1.2em;
+}
+
+
+
+
+

@@ -1,0 +1,51 @@
+.container-maestries{
+    
+    
+    
+}
+
+.champ-maestrie-card{
+   
+    background-color:goldenrod;
+    margin-bottom:1em;
+    border-radius:5px;
+    
+    padding:10%;
+    
+}
+
+
+
+.champ-maestrie-info{
+    
+    margin-bottom:2%;
+}
+
+.champ-maestrie-name{
+    color:blue;
+    font-size:1.5em;
+    text-shadow: 5px 5px 10px black;
+    
+}
+
+.champ-maestrie-img{
+    margin:2%;
+}
+
+.champ-maestrie-data{
+    color:blue;
+    text-shadow: 2px 2px 5px black;
+    
+    
+}
+
+.champ-maestrie-level{
+    
+    margin:1%;
+}
+
+.champ-maestrie-points{
+    
+    margin:1%;
+}
+

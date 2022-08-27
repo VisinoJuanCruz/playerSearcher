@@ -1,0 +1,40 @@
+.champ-container{
+  margin-top:5%;
+  font-size-adjust: 0.5px;
+  
+  
+}
+
+.champ-card{
+  background-color: rgb(8, 68, 158);
+  color:white;
+  border-radius: 5px;
+  border:2px solid black;
+  transition: 0.5s;
+  
+}
+.champ-card:hover{
+  box-shadow: 0px 0px 50px 15px goldenrod;
+}
+
+
+.card-title{
+  background-color: goldenrod;
+  border: 1px solid black;
+  border-radius: 5px;
+  color:black;
+}
+
+.champ-img{
+  border: 2px solid goldenrod
+}
+
+.champ-name{
+  color:goldenrod;
+  text-align: center;;
+}
+
+.champ-btn{
+  background-color:goldenrod
+}
+

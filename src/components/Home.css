@@ -1,0 +1,40 @@
+.home-container{
+    background-color:  #051a7e ;
+    height:100%;
+}
+
+.search-btn{
+  background-color:goldenrod
+}
+
+.search-btn:hover{
+  box-shadow: 0px 0px 20px 10px goldenrod;
+}
+
+
+.home-title{
+    color:goldenrod}
+
+
+    .lineUp {
+        animation: 2s anim-lineUp ease-out;
+      }
+      @keyframes anim-lineUp {
+        0% {
+          opacity: 0;
+          transform: translateY(80%);
+        }
+        20% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+      }
+
+
